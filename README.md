@@ -49,9 +49,13 @@
       </p>
     </td>
     <td width="45%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="310" alt="Coder at work"/>
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="310" alt="Developer coding"/>
+      <br/><br/>
+      <img src="https://img.shields.io/badge/🟢%20Disponible-Freelance%20%26%20Stage-38B2AC?style=flat-square" alt="Open to work"/>
       <br/>
-      <img src="https://img.shields.io/badge/💼%20Disponible-Freelance%20%26%20Stage-38B2AC?style=flat-square" alt="Open to work"/>
+      <img src="https://img.shields.io/badge/📍%20Localisation-Cameroun-302b63?style=flat-square" alt="Location"/>
+      <br/>
+      <img src="https://img.shields.io/badge/🌐%20Langue-FR%20%7C%20EN-0f0c29?style=flat-square" alt="Languages"/>
     </td>
   </tr>
 </table>
@@ -122,7 +126,15 @@
   <tr>
     <td width="32%" align="center" valign="top">
       <br/>
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" alt="Coding"/>
+      <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" alt="Developer at work"/>
+      <br/><br/>
+      <strong>CCN Technologie</strong><br/>
+      <img src="https://img.shields.io/badge/Durée-6%20mois-302b63?style=flat-square" alt="6 mois"/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,prisma&theme=dark&perline=4" alt="Stack CCN"/>
+      <br/><br/><br/>
+      <strong>Égalité Pour Tous</strong><br/>
+      <img src="https://img.shields.io/badge/Durée-3%20mois-302b63?style=flat-square" alt="3 mois"/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,postgres&theme=dark&perline=4" alt="Stack EPT"/>
     </td>
     <td width="68%" valign="top">
       <br/>
