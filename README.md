@@ -1,238 +1,239 @@
-<!-- ═══════════════════════════════════════════════ HEADER ═══ -->
+<!-- ═══════════════════════════════════════════════════════════ HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=260&section=header&text=Marc%20Delon%20Nzenang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%94%20Building%20the%20future%2C%20one%20commit%20at%20a%20time&descSize=15&descAlignY=58&descColor=38B2AC" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=280&section=header&text=Marc%20Delon%20Nzenang&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Cameroun%20%F0%9F%87%A8%F0%9F%87%B2&descSize=16&descAlignY=56&descColor=38B2AC" width="100%" />
 </div>
 
-<!-- ═══════════════════════════════════════════ TYPING SVG ═══ -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=800&color=38B2AC&center=true&vCenter=true&random=false&width=620&height=45&lines=D%C3%A9veloppeur+Full+Stack+Junior+%F0%9F%9A%80;Architecte+d%27applications+web+modernes+%F0%9F%8F%97%EF%B8%8F;React+%E2%80%A2+Next.js+%E2%80%A2+Java+Spring+Boot;Passionn%C3%A9+de+Clean+Architecture+et+DDD+%E2%9C%A8" alt="Typing SVG" />
-</div>
-
-<br/>
-
-<!-- ═════════════════════════════════════════ SOCIAL BADGES ═══ -->
-<div align="center">
-  <a href="https://marcdelon.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%230f0c29.svg?style=for-the-badge&logo=vercel&logoColor=38B2AC" alt="Portfolio"/>
-  </a>
-  &nbsp;
-  <a href="mailto:marcdelon.nzenang@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/marc-delon-nzenang" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/MarcDelon" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%230f0c29.svg?style=for-the-badge&logo=github&logoColor=38B2AC" alt="GitHub"/>
-  </a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=MarcDelon&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=900&color=38B2AC&center=true&vCenter=true&random=false&width=640&height=50&lines=Architecte+Full+Stack+%E2%80%94+React+%7C+Next.js+%7C+Spring+Boot;Je+transforme+des+id%C3%A9es+en+produits+concrets+%F0%9F%9A%80;Clean+Architecture+%E2%80%A2+DDD+%E2%80%A2+Code+maintenable;Toujours+en+train+de+construire+quelque+chose+de+beau+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════ ABOUT ME ═══════ -->
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230f0c29.svg?style=for-the-badge&logo=vercel&logoColor=38B2AC)](https://marcdelon.dev)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcdelon.nzenang@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/marc-delon-nzenang)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-%230f0c29.svg?style=for-the-badge&logo=github&logoColor=38B2AC)](https://github.com/MarcDelon)
+
+<img src="https://komarev.com/ghpvc/?username=MarcDelon&style=for-the-badge&color=302b63&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ ABOUT ME -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<table width="100%" cellspacing="0" cellpadding="16">
+<table width="100%" cellspacing="0" cellpadding="20">
   <tr>
-    <td width="58%" valign="top">
-      <h2>Qui suis-je ?</h2>
+    <td width="55%" valign="top">
+      <h2>$ whoami</h2>
+      <pre>
+┌─────────────────────────────────────────────┐
+│  Name     : Marc Delon Nzenang              │
+│  Role     : Full Stack Developer            │
+│  Location : Cameroun 🇨🇲                    │
+│  School   : KEYCE Informatique & IA         │
+│  Degree   : Bachelor 3 - Génie Logiciel     │
+│  Focus    : Web Apps · APIs · Cloud         │
+│  Status   : 🟢 Open to opportunities        │
+└─────────────────────────────────────────────┘
+      </pre>
       <p>
-        Développeur Full Stack Junior basé au <strong>Cameroun</strong>, passionné par la création d'expériences web modernes, performantes et bien architecturées. Je transforme des idées en produits concrets, de la conception au déploiement.
+        Je conçois des applications web <strong>modernes et robustes</strong>, de l'architecture API jusqu'au déploiement.
+        Formé en Maths-Physique avant de plonger dans le code — je résous les problèmes avec rigueur.
       </p>
-      <ul>
-        <li>🎓 <strong>Bachelor 3 Génie Logiciel</strong> — Institut KEYCE Informatique &amp; IA, Cameroun</li>
-        <li>📐 Issu d'une classe prépa <strong>Maths-Physique</strong> — rigueur analytique avant tout</li>
-        <li>🏗️ Je construis de bout en bout : conception, API, UI, déploiement</li>
-        <li>🌍 Ouvert aux <strong>collaborations internationales</strong></li>
-        <li>⚡ Fan de Clean Architecture, DDD et code bien organisé</li>
-        <li>☕ Propulsé au café et aux défis techniques</li>
-      </ul>
     </td>
-    <td width="42%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer coding"/>
+    <td width="45%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="310" alt="Coder at work"/>
       <br/>
-      <img src="https://img.shields.io/badge/Disponible%20pour-Freelance%20%26%20Opportunités-38B2AC?style=flat-square" alt="Available"/>
+      <img src="https://img.shields.io/badge/💼%20Disponible-Freelance%20%26%20Stage-38B2AC?style=flat-square" alt="Open to work"/>
     </td>
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 <br/>
 
-<!-- ═══════════════════════════════════════ SKILL ICONS ════════ -->
-<h2 align="center">Stack Technique</h2>
+<!-- ══════════════════════════════════════════════════ EN CE MOMENT -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<h2 align="center">⚡ En ce moment</h2>
 
 <div align="center">
 
-<h4>Frontend</h4>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend skills"/>
-
-<h4>Backend</h4>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,prisma&theme=dark" alt="Backend skills"/>
-
-<h4>Bases de données &amp; Cloud</h4>
-<img src="https://skillicons.dev/icons?i=postgres,supabase,redis&theme=dark" alt="Database skills"/>
-
-<h4>DevOps &amp; Outils</h4>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,figma,linux&theme=dark" alt="DevOps skills"/>
+| 🔨 Je construis | 📚 J'apprends | 🎯 Objectif |
+|:---:|:---:|:---:|
+| **Mentora LMS** | **Java Spring Boot avancé** | **Obtenir mon Bachelor** |
+| Plateforme e-learning complète | Architecture microservices | KEYCE - Génie Logiciel |
+| `Next.js` `Node.js` `PostgreSQL` | `Spring Security` `Kafka` | Promotion 2025 |
 
 </div>
 
 <br/>
 
-<!-- ════════════════════════════════════ EXPERIENCES ══════════ -->
+<!-- ═══════════════════════════════════════════════════ TECH STACK -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<h2 align="center">Expériences Professionnelles</h2>
+<h2 align="center">🛠️ Stack Technique</h2>
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="200"><strong>Frontend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,html,css&theme=dark" alt="Frontend"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,prisma&theme=dark" alt="Backend"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>Base de données</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,supabase,redis,mysql&theme=dark" alt="Databases"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><strong>DevOps & Outils</strong></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,figma&theme=dark" alt="DevOps"/>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- ══════════════════════════════════════════════════ EXPERIENCE -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<h2 align="center">💼 Expériences</h2>
 
 <table width="100%" cellspacing="0" cellpadding="16">
   <tr>
-    <td width="35%" align="center" valign="top">
+    <td width="32%" align="center" valign="top">
       <br/>
-      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="240" alt="Coding"/>
+      <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="230" alt="Coding"/>
     </td>
-    <td width="65%" valign="top">
+    <td width="68%" valign="top">
       <br/>
-      <h3>CCN Technologie &mdash; Développeur Full Stack Stagiaire</h3>
+      <h3>🏢 CCN Technologie</h3>
+      <p><strong>Développeur Full Stack Stagiaire</strong></p>
       <p>
-        <img src="https://img.shields.io/badge/2025-Yaoundé%2C%20Cameroun-302b63?style=flat-square&logo=calendar&logoColor=38B2AC" alt="2025 Yaoundé"/>
+        <img src="https://img.shields.io/badge/📍%202025-Yaoundé%2C%20Cameroun-302b63?style=flat-square" alt="location"/>
       </p>
-      <p>Conception et développement de <strong>Mentora LMS</strong>, une plateforme d'apprentissage en ligne pour les formations numériques au Cameroun.</p>
+      <p>Développement de <strong>Mentora LMS</strong> — plateforme d'apprentissage en ligne pour les formations numériques.</p>
       <ul>
-        <li>Architecture backend <strong>Node.js / Express / PostgreSQL</strong> (Neon + Prisma)</li>
+        <li>Backend <strong>Node.js / Express / PostgreSQL</strong> (Neon + Prisma)</li>
         <li>Frontend <strong>Next.js 16 + TypeScript + Tailwind CSS</strong></li>
-        <li>Système de paiement <strong>Fapshi Mobile Money</strong></li>
-        <li>Certificats PDF vérifiables avec QR Code</li>
-        <li>Gestion des rôles : Admin, Mentor, Apprenant</li>
+        <li>Paiement <strong>Fapshi Mobile Money</strong></li>
+        <li>Génération de <strong>certificats PDF vérifiables</strong> (QR Code)</li>
+        <li>Système de rôles : Admin, Mentor, Apprenant</li>
       </ul>
       <br/>
-      <h3>Organisation Égalité Pour Tous &mdash; Développeur Web Stagiaire</h3>
+      <h3>🏢 Organisation Égalité Pour Tous</h3>
+      <p><strong>Développeur Web Stagiaire</strong></p>
       <p>
-        <img src="https://img.shields.io/badge/2024-Douala%2C%20Cameroun-302b63?style=flat-square&logo=calendar&logoColor=38B2AC" alt="2024 Douala"/>
+        <img src="https://img.shields.io/badge/📍%202024-Douala%2C%20Cameroun-302b63?style=flat-square" alt="location"/>
       </p>
-      <p>Application web pour la gestion de la <strong>Journée de l'emploi</strong>.</p>
+      <p>Application web pour la <strong>Journée de l'emploi</strong> — inscription, QR Code, administration.</p>
       <ul>
-        <li>Système d'inscription et gestion des participants</li>
-        <li>Interface d'administration des événements et offres</li>
-        <li>Contrôle d'accès par QR Code</li>
+        <li>Gestion des participants et des offres d'emploi</li>
+        <li>Contrôle d'accès par QR Code en temps réel</li>
       </ul>
     </td>
   </tr>
 </table>
 
+<br/>
+
+<!-- ═══════════════════════════════════════════════════ PROJECTS -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<br/>
+<h2 align="center">🚀 Projets</h2>
 
-<!-- ═════════════════════════════════════ PROJECTS ════════════ -->
-<h2 align="center">Projets</h2>
+<div align="center">
 
-<table width="100%" cellspacing="0" cellpadding="12">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/MarcDelon">
-        <img src="https://img.shields.io/badge/Legacy%20Workspace-0f0c29?style=for-the-badge&logo=github&logoColor=38B2AC" alt="Legacy Workspace"/>
-      </a>
-      <br/><br/>
-      <p align="left">Plateforme collaborative de gestion de workspaces d'équipe avec authentification, gestion de rôles et tableaux de bord.</p>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,docker&theme=dark&perline=4" alt="stack"/>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/MarcDelon">
-        <img src="https://img.shields.io/badge/Vano%20Chat-0f0c29?style=for-the-badge&logo=github&logoColor=38B2AC" alt="Vano Chat"/>
-      </a>
-      <br/><br/>
-      <p align="left">Application de messagerie instantanée temps réel avec rooms, notifications et historique persistant.</p>
-      <img src="https://skillicons.dev/icons?i=ts,nodejs,supabase&theme=dark&perline=4" alt="stack"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/MarcDelon">
-        <img src="https://img.shields.io/badge/Eventpass-0f0c29?style=for-the-badge&logo=github&logoColor=38B2AC" alt="Eventpass"/>
-      </a>
-      <br/><br/>
-      <p align="left">Gestion d'événements avec billetterie, QR Code pour contrôle d'accès en temps réel.</p>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,postgres&theme=dark&perline=4" alt="stack"/>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/MarcDelon">
-        <img src="https://img.shields.io/badge/Ja--da%20E--commerce-0f0c29?style=for-the-badge&logo=github&logoColor=38B2AC" alt="Ja-da"/>
-      </a>
-      <br/><br/>
-      <p align="left">Boutique en ligne complète avec gestion de catalogue, panier et système de paiement intégré.</p>
-      <img src="https://skillicons.dev/icons?i=nextjs,tailwind,prisma&theme=dark&perline=4" alt="stack"/>
-    </td>
-  </tr>
-</table>
+[![Mentora LMS](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/pin/?username=MarcDelon&repo=mentora-lms&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/MarcDelon)
+[![Vano Chat](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/pin/?username=MarcDelon&repo=vano-chat&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/MarcDelon)
+
+[![Eventpass](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/pin/?username=MarcDelon&repo=eventpass&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/MarcDelon)
+[![Ja-da E-commerce](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/pin/?username=MarcDelon&repo=ja-da&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/MarcDelon)
+
+</div>
 
 <br/>
 
-<!-- ════════════════════════════════════ TROPHIES ════════════ -->
+<!-- ══════════════════════════════════════════════════ TROPHIES -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<h2 align="center">GitHub Trophées</h2>
+<h2 align="center">🏆 GitHub Trophées</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcDelon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=MarcDelon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies"/>
 </div>
 
 <br/>
 
-<!-- ════════════════════════════════ ACTIVITY GRAPH ══════════ -->
-<h2 align="center">Graphe d'Activité</h2>
+<!-- ═══════════════════════════════════════════ ACTIVITY GRAPH -->
+<h2 align="center">📈 Graphe d'Activité</h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcDelon&custom_title=Marc%27s%20Contribution%20Graph&bg_color=0d1117&color=38B2AC&line=302b63&point=38B2AC&area_color=302b63&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcDelon&custom_title=Marc%27s+GitHub+Activity&bg_color=0d1117&color=38B2AC&line=302b63&point=38B2AC&area_color=302b63&area=true&hide_border=true&radius=8" width="100%" alt="Activity Graph"/>
 </div>
 
 <br/>
 
-<!-- ══════════════════════════════════════ STATS ═════════════ -->
-<h2 align="center">Statistiques GitHub</h2>
+<!-- ════════════════════════════════════════════════════ STATS -->
+<h2 align="center">📊 Statistiques GitHub</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api?username=MarcDelon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117" alt="GitHub Stats"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/top-langs/?username=MarcDelon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117" alt="Top Languages"/>
-</div>
 
-<div align="center">
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcDelon&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+<img height="185em" src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api?username=MarcDelon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=38B2AC&icon_color=302b63" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="185em" src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/top-langs/?username=MarcDelon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=38B2AC" alt="Top Languages"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=MarcDelon&theme=tokyonight&hide_border=true&background=0d1117&ring=38B2AC&fire=302b63&currStreakLabel=38B2AC" alt="GitHub Streak"/>
+
 </div>
 
 <br/>
 
-<!-- ════════════════════════════════════ SNAKE ═══════════════ -->
-<h2 align="center">Contributions</h2>
+<!-- ═══════════════════════════════════════════════════ SNAKE -->
+<h2 align="center">🐍 Snake des Contributions</h2>
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcDelon/MarcDelon/output/github-contribution-grid-snake-dark.svg"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcDelon/MarcDelon/output/github-contribution-grid-snake.svg"/>
-    <img alt="Snake animation" src="https://raw.githubusercontent.com/MarcDelon/MarcDelon/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/MarcDelon/MarcDelon/output/github-contribution-grid-snake-dark.svg" width="100%"/>
   </picture>
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════ QUOTE ════════════ -->
+<!-- ════════════════════════════════════════════════ CITATION -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
   <br/>
-  <em>"Le code propre aujourd'hui évite les dettes techniques demain."</em>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=MarcDelon&style=flat-square&color=302b63&label=Visiteurs+du+profil" alt="Profile views"/>
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════ FOOTER ═══════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=footer" width="100%"/>
+<!-- ══════════════════════════════════════════════════ FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=150&section=footer" width="100%"/>
