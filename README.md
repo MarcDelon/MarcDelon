@@ -171,52 +171,59 @@
 <!-- ═══════════════════════════════════════════════════ PROJECTS -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-<h2 align="center">🚀 Projets</h2>
+<h2 align="center">Projets</h2>
 
-<div align="center">
-
-[![Mentora LMS](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/pin/?username=MarcDelon&repo=mentora-lms&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/MarcDelon)
-[![Vano Chat](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/pin/?username=MarcDelon&repo=vano-chat&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/MarcDelon)
-
-[![Eventpass](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/pin/?username=MarcDelon&repo=eventpass&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/MarcDelon)
-[![Ja-da E-commerce](https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/pin/?username=MarcDelon&repo=ja-da&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/MarcDelon)
-
-</div>
-
-<br/>
-
-<!-- ══════════════════════════════════════════════════ TROPHIES -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-<h2 align="center">🏆 GitHub Trophées</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcDelon&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="Trophies"/>
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════ ACTIVITY GRAPH -->
-<h2 align="center">📈 Graphe d'Activité</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarcDelon&custom_title=Marc%27s+GitHub+Activity&bg_color=0d1117&color=38B2AC&line=302b63&point=38B2AC&area_color=302b63&area=true&hide_border=true&radius=8" width="100%" alt="Activity Graph"/>
-</div>
+<table width="100%" cellspacing="0" cellpadding="16">
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/MarcDelon">Mentora LMS</a></h4>
+      <p>Plateforme d'apprentissage en ligne complète avec système de paiement Mobile Money, certificats PDF et gestion multi-rôles.</p>
+      <img src="https://img.shields.io/badge/Status-En%20production-38B2AC?style=flat-square" alt="status"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,prisma&theme=dark&perline=4" alt="stack"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/MarcDelon">Vano Chat</a></h4>
+      <p>Application de messagerie temps réel avec rooms, notifications push et historique des conversations persistant.</p>
+      <img src="https://img.shields.io/badge/Status-Terminé-302b63?style=flat-square" alt="status"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=ts,nodejs,supabase&theme=dark&perline=4" alt="stack"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/MarcDelon">Eventpass</a></h4>
+      <p>Gestion d'événements avec billetterie numérique et contrôle d'accès par QR Code scannable en temps réel.</p>
+      <img src="https://img.shields.io/badge/Status-Terminé-302b63?style=flat-square" alt="status"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,postgres&theme=dark&perline=4" alt="stack"/>
+    </td>
+    <td width="50%" valign="top">
+      <h4><a href="https://github.com/MarcDelon">Ja-da E-commerce</a></h4>
+      <p>Boutique en ligne complète avec catalogue, panier persistant, gestion des commandes et paiement intégré.</p>
+      <img src="https://img.shields.io/badge/Status-Terminé-302b63?style=flat-square" alt="status"/>
+      <br/><br/>
+      <img src="https://skillicons.dev/icons?i=nextjs,tailwind,prisma&theme=dark&perline=4" alt="stack"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <!-- ════════════════════════════════════════════════════ STATS -->
-<h2 align="center">📊 Statistiques GitHub</h2>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<h2 align="center">Statistiques GitHub</h2>
 
 <div align="center">
 
-<img height="185em" src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api?username=MarcDelon&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=38B2AC&icon_color=302b63" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="185em" src="https://github-readme-stats-git-masterorgs-github-readme-stats.vercel.app/api/top-langs/?username=MarcDelon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&bg_color=0d1117&title_color=38B2AC" alt="Top Languages"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=MarcDelon&theme=tokyonight&hide_border=true&background=0d1117&ring=38B2AC&fire=302b63&currStreakLabel=38B2AC" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Contributions%20(2025)-33%2B-38B2AC?style=for-the-badge&logo=github" alt="Contributions"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Repos%20Publics-Voir%20profil-302b63?style=for-the-badge&logo=github" alt="Repos"/>
 
 </div>
 
